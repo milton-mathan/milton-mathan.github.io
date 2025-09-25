@@ -1,0 +1,26 @@
+{
+  "personal": {
+    "name": "Milton Daniel Mathan",
+    "title": "Technology Leader | SaaS, E-Commerce & Scalable Platforms",
+    "bio": "Senior Engineering Leader architecting scalable SaaS and commerce platforms, while building high-performing teams that deliver impact",
+    "extendedBio": "I am a Senior Engineering Leader with 16 years of experience in platform engineering, cloud architecture, and software development across global organizations. I bring deep expertise in multi-cloud environments (AWS, Azure, GCP), private-cloud deployments, event-driven systems, API ecosystems, and scalable microservices, coupled with a proven ability to define and execute technology strategies, lead enterprise-wide transformations, and build high-performing teams across development, operations, and security disciplines. Skilled in engineering leadership, Agile delivery (Scrum/SAFe), and DevSecOps practices, I have a strong track record of aligning cross-functional teams to deliver measurable outcomes. My approach bridges technical execution with business priorities, fostering a culture of ownership, innovation, and continuous evolution across complex environments. I have architected AI-integrated platforms, including a Salesforce-based chatbot powered by the Model Context Protocol (MCP) that enables conversational access to consumer profile data. Currently, I am leading the development of an integration layer extending Martech systems into Data Warehouse capabilities, embedding AI tools to enable intelligent data interaction across business and engineering teams. I actively apply modern developer productivity tools such as GitHub Copilot, Claude Code, Kiro, and Amazon Q to streamline workflows and enhance engineering velocity. Above all, I am dedicated to cultivating a culture of psychological safety, ownership, and collaboration, empowering teams to thrive in environments that embrace innovation and continuous transformation. I excel at the intersection of engineering, security, and business strategy, ensuring technology drives efficiency, resilience, and meaningful business outcomes.",
+    "avatar": "/images/Milton-Mathan.jpg",
+    "resume": null,
+    "location": "Espoo, Finland",
+    "email": "miltonmathan@live.com"
+  },
+  "social": {
+    "github": "https://github.com/milton-mathan",
+    "linkedin": "https://www.linkedin.com/in/miltonmathan",
+    "twitter": "",
+    "email": "miltonmathan@live.com",
+    "website": "https://milton-mathan.github.io"
+  },
+  "github": {
+    "username": "milton-mathan",
+    "enabled": true,
+    "showPrivateContributions": false,
+    "featuredRepositories": ["json-toolkit-pub", "MCP-Chatbot-CLI-pub","MCP-Chatbot-Web-pub"],
+    "excludeRepositories": ["content-gitops"]
+  }
+}

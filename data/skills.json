@@ -1,0 +1,358 @@
+{
+  "skills": [
+    {
+      "category": "Leadership & People Management",
+      "items": [
+        {
+          "name": "Cross-functional Team Leadership",
+          "details": "Led teams of 70+ engineers across FE, BE, QA, POs, SMs, and Architects"
+        },
+        {
+          "name": "Agile Leadership",
+          "details": "SAFe Agile Release Train leadership for 3 years managing 6 teams"
+        },
+        {
+          "name": "Mentoring & Coaching",
+          "details": "Mentored senior engineers across multiple disciplines and domains"
+        },
+        {
+          "name": "Team Structure Design",
+          "details": "Architected 120-member release train structure across 6 teams"
+        },
+        {
+          "name": "Partner Transition Management",
+          "details": "Successfully transitioned 70 engineers between organizations in 2 months"
+        },
+        {
+          "name": "Hiring & Recruitment",
+          "details": "Led recruitment and interviewing for internal and external stakeholders"
+        }
+      ]
+    },
+    {
+      "category": "Strategic Planning & Architecture",
+      "items": [
+        {
+          "name": "Enterprise Architecture",
+          "details": "Designed headless e-commerce, middleware, and API gateway architectures"
+        },
+        {
+          "name": "Technology Roadmaps",
+          "details": "Built multi-year technical roadmaps for 8-brand e-commerce ecosystem"
+        },
+        {
+          "name": "MACH Architecture",
+          "details": "Implemented Microservices, API-first, Cloud-native, Headless solutions"
+        },
+        {
+          "name": "Event-driven Systems",
+          "details": "Architected systems processing millions of consumer and order records"
+        },
+        {
+          "name": "Microservices Design",
+          "details": "Built scalable microservices architecture across multiple platforms"
+        },
+        {
+          "name": "API Gateway Strategy",
+          "details": "Unified API layer serving 8 headless webstores with GraphQL/REST"
+        },
+        {
+          "name": "Cloud-native Enablement",
+          "details": "Migrated legacy systems to modern cloud-native architectures"
+        },
+        {
+          "name": "Network Architecture",
+          "details": "Redesigned network infrastructure for treasury and e-commerce platforms"
+        }
+      ]
+    },
+		{
+	  "category": "Software Engineering & Leadership",
+	  "items": [
+		{
+		  "name": "Java",
+		  "details": "Led enterprise-scale development of Spring Boot microservices; designed highly available, secure, and scalable applications"
+		},
+		{
+		  "name": "JavaScript/Node.js",
+		  "details": "Directed full-stack and serverless development (Lambda, APIs) with focus on performance, maintainability, and DevOps integration"
+		},
+		{
+		  "name": "Python",
+		  "details": "Oversaw development of data processing pipelines, automation frameworks, and microservices for enterprise workloads"
+		},
+		{
+		  "name": "C#/.NET",
+		  "details": "Guided modernization of legacy .NET applications and delivered new enterprise solutions aligned with business goals"
+		},
+		{
+		  "name": "GraphQL",
+		  "details": "Architected AWS AppSync–based GraphQL layer to unify APIs and improve developer productivity"
+		},
+		{
+		  "name": "REST APIs",
+		  "details": "Defined API-first strategies, implemented standards-based REST services, and managed API gateways for governance and security"
+		},
+		{
+		  "name": "Frontend Frameworks",
+		  "details": "Led frontend teams building scalable, modular apps using Nuxt.js and Vue.js for headless e-commerce and enterprise portals"
+		}
+	  ]
+    },
+    {
+      "category": "Cloud & DevOps",
+      "items": [
+				{
+		  "name": "AWS",
+		  "details": "Lambda, EKS, Fargate, API Gateway, SQS, SNS, EventBridge, DynamoDB, S3, RDS, IAM, Organizations, CloudWatch, CloudTrail, CloudFront, Route 53, VPC, Cognito, Kinesis, Step Functions, EC2, CloudFormation, Elasticache, Redshift, GuardDuty, WAF, Shield, APPSync, DataSync, Bedrock, Amazon Q "
+		},
+		{
+		  "name": "GCP",
+		  "details": "GKE (Google Kubernetes Engine), IAM, Organization, Google Analytics, reCAPTCHA, Google Maps Platform, Cloud Billing, Cloud CDN, Apigee, Cloud Armor"
+		},
+		{
+		  "name": "Azure",
+		  "details": "Functions, AKS (Azure Kubernetes Service), Container Apps, Event Grid, Event Hub, Service Bus, API Management (APIM), Logic Apps, Cosmos DB, Azure SQL Database, Blob Storage, Virtual Machines, Virtual Network, Azure AD, Resource Manager, Monitor, Application Insights, Front Door, Traffic Manager, CDN, DevOps, Redis Cache, Defender for Cloud, Key Vault, WAF"
+		},
+
+        {
+          "name": "Infrastructure as Code",
+          "details": "Terraform, ARM templates, AWS CloudFormation"
+        },
+        {
+          "name": "CI/CD Automation",
+          "details": "GitHub Actions, Azure DevOps, TeamCity, Octopus Deploy, Chef"
+        },
+        {
+          "name": "Feature Toggle",
+          "details": "Azure App Configuration"
+        },
+        {
+          "name": "DevOps Transformation",
+          "details": "Reduced test automation from 5 days to 2 hours (96% improvement)"
+        },
+        {
+          "name": "Pipeline Optimization",
+          "details": "Reduced deployment time from 8 hours to 2 hours (75% improvement)"
+        }
+      ]
+    },
+    {
+      "category": "Containerization & Orchestration",
+      "items": [
+        {
+          "name": "Kubernetes",
+          "details": "EKS, Fargate, AKS"
+        },
+        {
+          "name": "Docker",
+          "details": "Container development, deployment, and optimization"
+        },
+        {
+          "name": "Rancher",
+          "details": "Kubernetes cluster management across multiple environments"
+        },
+        {
+          "name": "Serverless Computing",
+          "details": "AWS Lambda, Azure Functions for event-driven architectures"
+        },
+        {
+          "name": "Container Apps",
+          "details": "Azure Container Apps for microservices deployment"
+        }
+      ]
+    },
+    {
+      "category": "Monitoring & Observability",
+      "items": [
+        {
+          "name": "Datadog",
+          "details": "Application performance monitoring and alerting"
+        },
+        {
+          "name": "Application Insights",
+          "details": "Azure application monitoring and diagnostics"
+        },
+        {
+          "name": "Dynatrace",
+          "details": "Full-stack monitoring and performance optimization"
+        },
+        {
+          "name": "Grafana",
+          "details": "Custom dashboards and visualization"
+        },
+        {
+          "name": "InfluxDB",
+          "details": "Time-series data storage and monitoring"
+        },
+        {
+          "name": "Database Monitoring",
+          "details": "Built custom microservices for proactive DB monitoring"
+        }
+      ]
+    },
+    {
+      "category": "Security & Compliance",
+      "items": [
+        {
+          "name": "DevSecOps",
+          "details": "SAST, DAST, SCA integration in CI/CD pipelines"
+        },
+        {
+          "name": "ISO 27001",
+          "details": "Led 6-month compliance project with 100% audit success"
+        },
+        {
+          "name": "SWIFT Standards",
+          "details": "Defined and aligned entire IT ecosystem for compliance"
+        },
+        {
+          "name": "Web Application Firewall",
+          "details": "CloudFlare WAF, AWS WAF, Azure WAF implementation"
+        },
+        {
+          "name": "Network Security",
+          "details": "VPC, VNet, firewall, and security group configuration"
+        },
+        {
+          "name": "SonarQube",
+          "details": "Code quality and security scanning implementation"
+        }
+      ]
+    },
+	{
+	  "category": "Test Automation & Quality",
+	  "items": [
+		{
+		  "name": "Cypress",
+		  "details": "Led end-to-end test automation initiatives for regression testing, enabling faster release cycles across multiple teams"
+		},
+		{
+		  "name": "Gatling",
+		  "details": "Directed performance and load testing strategies to ensure scalability and reliability of enterprise applications"
+		},
+		{
+		  "name": "Custom Test Framework",
+		  "details": "Architected and led the development of a reusable test automation framework supporting 8 brands, with occasional hands-on contributions"
+		},
+		{
+		  "name": "Multi-environment Testing",
+		  "details": "Managed automation across 3 environments per webstore, ensuring consistency and reducing environment-specific defects"
+		}
+	  ]
+	},
+
+    {
+      "category": "Enterprise Platforms & Tools",
+      "items": [
+        {
+          "name": "Sitecore",
+          "details": "Legacy e-commerce platform maintenance and development"
+        },
+        {
+          "name": "SAP Commerce Cloud",
+          "details": "Enterprise commerce platform integration and management"
+        },
+        {
+          "name": "Salesforce",
+          "details": "CRM integration and data synchronization"
+        },
+        {
+          "name": "Shopify",
+          "details": "E-commerce platform integration with downstream systems"
+        },
+        {
+          "name": "Jira & Confluence",
+          "details": "Project management and documentation across multiple teams"
+        },
+        {
+          "name": "CloudFlare",
+          "details": "CDN, WAF, and performance optimization"
+        }
+      ]
+    },
+    {
+      "category": "AI & Modern Development",
+      "items": [
+        {
+          "name": "Gen AI Integration",
+          "details": "Model Context Protocol (MCP) implementation in enterprise systems"
+        },
+        {
+          "name": "AI-powered Development",
+          "details": "GitHub Copilot, Claude Code for enhanced developer productivity"
+        },
+        {
+          "name": "Agentic AI Frameworks",
+          "details": "Conversational interfaces and data-driven personalization"
+        },
+        {
+          "name": "Workflow Automation",
+          "details": "AI-assisted software delivery and process optimization"
+        },
+        {
+          "name": "Data-driven Personalization",
+          "details": "AI integration for intelligent reporting and insights"
+        }
+      ]
+    },
+    {
+      "category": "Data & Databases",
+      "items": [
+        {
+          "name": "PostgreSQL",
+          "details": "Primary database for multiple enterprise applications"
+        },
+        {
+          "name": "MS SQL Server",
+          "details": "Legacy system maintenance and banking applications"
+        },
+        {
+          "name": "DynamoDB",
+          "details": "NoSQL database for high-scale applications"
+        },
+        {
+          "name": "Data Warehouse",
+          "details": "Built middleware acting as data warehouse for intelligent reports"
+        },
+        {
+          "name": "InfluxDB",
+          "details": "Time-series database for monitoring and analytics"
+        },
+        {
+          "name": "Data Processing",
+          "details": "Handled millions of consumer and order records daily"
+        }
+      ]
+    },
+    {
+      "category": "Project Management & Methodology",
+      "items": [
+        {
+          "name": "SAFe Agile",
+          "details": "PI Planning, System Demo, Inspect & Adapt, ART ceremonies"
+        },
+        {
+          "name": "Scrum",
+          "details": "2-week sprints, daily standups, sprint planning, retrospectives"
+        },
+        {
+          "name": "Kanban",
+          "details": "Workflow management for banking and SaaS projects"
+        },
+        {
+          "name": "Product Ownership",
+          "details": "Feature definition, user story generation, backlog management"
+        },
+        {
+          "name": "Risk Assessment",
+          "details": "Technical risk identification and mitigation strategies"
+        },
+        {
+          "name": "Stakeholder Management",
+          "details": "Cross-team coordination and business partnership"
+        }
+      ]
+    }
+  ]
+}
