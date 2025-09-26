@@ -63,15 +63,15 @@
       "impact": "Established scalable team structure supporting 8 e-commerce webstores and retail PoS ecosystem with 30% improvement in delivery predictability and clear accountability models.",
       "featured": true
     },
-    {
-      "id": "partner-transition",
-      "title": "Strategic Tech Partner Transition – 70 Engineer Migration in 2 Months",
-      "challenge": "Execute complete technology partner transition for entire e-commerce ecosystem while maintaining business continuity and zero downtime.",
-      "whatIDid": "Led governance and transition planning for 70 engineers transitioning from one tech organization to another, including recruitment, interviewing, and stakeholder management across the complete ecosystem.",
-      "techAndFramework": "Microsoft Teams, Slack, Confluence, Jira, Microsoft Stream (KT recordings), Azure DevOps (code repositories), Daily/weekly sync frameworks, Knowledge transfer processes",
-      "impact": "Successfully completed partner transition in 2 months with zero business disruption, 90% talent retention rate, and established new partnership framework for continued growth.",
-      "featured": true
-    },
+	{
+	  "id": "partner-transition",
+	  "title": "Strategic Tech Partner Transition – 70 Engineer & Ecosystem Migration in 2 Months",
+	  "challenge": "Execute complete technology partner transition for entire e-commerce ecosystem—including tools, services, and licenses across 8 brands while maintaining business continuity and zero downtime.",
+	  "whatIDid": "Led governance and transition planning for 70 engineers transitioning from one tech organization to another, including recruitment, interviewing, and stakeholder management. Oversaw end-to-end migration of tools, services, and licenses supporting the full e-commerce ecosystem across 8 brands.",
+	  "techAndFramework": "Microsoft Teams, Slack, Confluence, Jira, Microsoft Stream (KT recordings), Azure DevOps (code repositories), Daily/weekly sync frameworks, Knowledge transfer processes, License and service migration protocols",
+	  "impact": "Successfully completed partner transition in 2 months with zero business disruption, 90% talent retention rate, seamless migration of ecosystem assets, and established new partnership framework for continued growth.",
+	  "featured": true
+	},
     {
       "id": "devops-transformation",
       "title": "DevOps Transformation – Test Automation & Pipeline Optimization",
@@ -91,7 +91,7 @@
       "featured": true
     },
     {
-      "id": "saas-migration-from-licensebased",
+      "id": "saas-migration-from-legacy-licensebased",
       "title": "SaaS Migration & SMB Platform – 7000 Finnish SMB Target",
       "challenge": "Convert legacy license-based client software to modern cloud-based SaaS solution targeting the Finnish SMB market with scalable architecture.",
       "whatIDid": "Led end-to-end SaaS transformation over 3-5 months as architect, DevOps engineer, and platform designer, converting client-side software to cloud-based SaaS solution with complete infrastructure redesign.",
@@ -101,7 +101,7 @@
     },
     {
       "id": "cashmanagement-saas-platform",
-      "title": "Banking SaaS Platform & Operations – 9000 Customer Solution",
+      "title": "Cash Management SaaS Platform & Operations – 9000 Customer Solution",
       "challenge": "Implement comprehensive web-based SaaS solution for banking platform serving both direct and indirect customers with enterprise-grade reliability and security.",
       "whatIDid": "Served as SaaS architect, PM, and DevOps engineer over 12 months, defining support models, infrastructure, monitoring, security, and building microservices for proactive database monitoring and system health.",
       "techAndFramework": "AWS, Azure, Node.js, Python, AWS Lambda, Azure DevOps, SonarQube, Terraform, SQS, SNS, SES, GitHub, TeamCity, Octopus Deploy, Chef, RDS, DynamoDB, EFS, S3, AWS SFTP, VPC, Grafana, InfluxDB, Route53, AWS WAF, MS SQL Server, SaaS architecture (banking software, tenant manager, migration tool), Confluence, Jira (Kanban), SAST, DAST, SCA",
