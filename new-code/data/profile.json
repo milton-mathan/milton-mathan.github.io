@@ -1,0 +1,26 @@
+{
+  "personal": {
+    "name": "Milton Daniel Mathan",
+    "title": "Technology Leader | SaaS, E-Commerce & Scalable Platforms",
+    "bio": "Senior Engineering Leader architecting scalable SaaS and commerce platforms, while building high-performing teams that deliver impact",
+    "extendedBio": "I am a Senior Engineering Leader with 16 years of experience building and scaling technology platforms across B2B SaaS and B2C e-commerce. I specialize in multi-cloud architecture (AWS, Azure, GCP), event-driven systems, and platform engineering, with a proven track record of leading cross-functional teams and delivering solutions that serve millions of users. My leadership approach combines deep technical expertise with strategic business alignment. I architect scalable platforms, design API ecosystems, and drive cloud-native transformations that enable businesses to move faster and operate more efficiently. I excel at bridging the gap between engineering execution and business priorities, ensuring technology decisions deliver measurable value. I am passionate about building high-performing engineering cultures through modern practices, including implementing comprehensive DevSecOps pipelines, leveraging AI-powered development tools, and establishing agile frameworks that scale. Beyond my core leadership work, I provide pro bono consulting to organizations on technical challenges including middleware development, platform architecture, and engineering strategy. I believe in creating environments where engineers take ownership, collaborate effectively, and continuously evolve their craft. I work at the intersection of engineering, security, and business strategy, focusing on cultivating cultures of psychological safety, innovation, and continuous learning while empowering teams to thrive in environments that embrace transformation and deliver meaningful outcomes.",
+    "avatar": "/images/Milton-Mathan.jpg",
+    "resume": "/documents/MiltonMathan-CV.pdf",
+    "location": "Espoo, Finland",
+    "email": "miltonmathan@live.com"
+  },
+  "social": {
+    "github": "https://github.com/milton-mathan",
+    "linkedin": "https://www.linkedin.com/in/miltonmathan",
+    "twitter": "",
+    "email": "miltonmathan@live.com",
+    "website": "https://milton-mathan.github.io"
+  },
+  "github": {
+    "username": "milton-mathan",
+    "enabled": true,
+    "showPrivateContributions": false,
+    "featuredRepositories": ["json-toolkit-pub", "MCP-Chatbot-CLI-pub","MCP-Chatbot-Web-pub"],
+    "excludeRepositories": ["content-gitops"]
+  }
+}

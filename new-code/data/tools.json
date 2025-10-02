@@ -1,0 +1,37 @@
+{
+  "tools": [
+    {
+      "id": "json-toolkit",
+      "name": "JSON Toolkit",
+      "description": "A comprehensive JSON manipulation toolkit with 20+ powerful features including validation, formatting, minification, schema generation, data transformation, and advanced querying capabilities. Built for developers who work with JSON data daily.",
+      "liveUrl": "https://json-toolkit-beryl.vercel.app/",
+      "githubUrl": "https://github.com/milton-mathan/json-toolkit-pub",
+      "tags": [
+        "JSON",
+        "Developer Tools",
+        "Data Processing",
+        "Validation",
+        "Schema Generation",
+        "Data Transformation"
+      ],
+      "category": "Developer Tools",
+      "featured": true,
+      "techStack": [
+        "React",
+        "TypeScript",
+        "Vite",
+        "Tailwind CSS"
+      ],
+      "features": [
+        "JSON Validation & Formatting",
+        "Schema Generation",
+        "Data Transformation",
+        "JSONPath Querying",
+        "Diff Comparison",
+        "CSV/XML Conversion",
+        "Mock Data Generation",
+        "Batch Processing"
+      ]
+    }
+  ]
+}

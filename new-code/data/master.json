@@ -1,0 +1,34 @@
+{
+  "sections": {
+    "header": {
+      "enabled": true,
+      "order": 1
+    },
+    "about": {
+      "enabled": true,
+      "order": 2
+    },
+    "skills": {
+      "enabled": true,
+      "order": 3
+    },
+    "experience": {
+      "enabled": true,
+      "order": 4
+    },
+    "projects": {
+      "enabled": true,
+      "order": 5
+    },
+    "certificates": {
+      "enabled": true,
+      "order": 6
+    },
+    "testimonials": {
+      "enabled": false,
+      "order": 7
+    }
+  },
+  "theme": "default",
+  "layout": "single-page"
+}
