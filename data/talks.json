@@ -1,0 +1,24 @@
+{
+  "talks": [
+    {
+      "id": "talk-1",
+      "title": "The Role Of Automation In Modern SRE",
+      "url": "https://evolutionjobs.com/exchange/evo-finland-19-the-role-of-automation-in-modern-sre/",
+      "applePodcastUrl": "https://podcasts.apple.com/us/podcast/evo-finland-19-the-role-of-automation-in-modern-sre/id1838695385?i=1000727466245",
+      "soundcloudUrl": "https://soundcloud.com/evo-finland/evo-finland-19-the-role-of-automation-in-modern-sre?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+      "spotifyUrl": "https://open.spotify.com/episode/6HgTudw7fOMf96NysxIObN?si=I5dhQW_iQeiUoX1eOtxW-A",
+      "date": "2025-08-27",
+      "platform": "evolution exchange - Finland Podcast",
+      "description": "Explore how automation is reshaping what it means to be an SRE - from firefighting and incident response to designing for resilience and reliability."
+    },
+    {
+      "id": "talk-2",
+      "title": "The role of Engineering Managers in Remote Culture Building",
+      "url": "https://evolutionjobs.com/exchange/evo-finland-17-the-role-of-engineering-managers-in-remote-culture-building/",
+      "soundcloudUrl": "https://soundcloud.com/evo-finland/evo-finland-17-the-role-of-engineering-managers-in-remote-culture-building?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+      "date": "2025-07-24",
+      "platform": "evolution exchange - Finland Podcast",
+      "description": "Explore how Engineering Leaders create strong culture without a shared office space"
+    }
+   ]
+}

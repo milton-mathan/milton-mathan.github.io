@@ -4,7 +4,7 @@
       "enabled": true,
       "order": 1
     },
-    "about": {
+    "executiveSummary": {
       "enabled": true,
       "order": 2
     },
@@ -12,21 +12,29 @@
       "enabled": true,
       "order": 3
     },
-    "experience": {
+    "certifications": {
       "enabled": true,
       "order": 4
     },
-    "projects": {
+    "tools": {
       "enabled": true,
       "order": 5
     },
-    "certificates": {
+    "talks": {
       "enabled": true,
       "order": 6
     },
-    "testimonials": {
-      "enabled": false,
+    "projects": {
+      "enabled": true,
       "order": 7
+    },
+    "github": {
+      "enabled": true,
+      "order": 8
+    },
+    "connect": {
+      "enabled": true,
+      "order": 9
     }
   },
   "theme": "default",
